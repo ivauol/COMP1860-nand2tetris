@@ -1,3 +1,3 @@
-# nand2tetris-practice
+# 1860-nand2tetris
 
-This was used as a space to practise using HDL to make basic chips ahead of my exam for the 1860 module (which focused on computer architecture).
+Sandbox to practise using HDL to make basic chips ahead of the COMP1860 exam (Building our Digital World: Computer Systems & Architecture).
